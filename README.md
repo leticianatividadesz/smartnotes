@@ -7,3 +7,10 @@ API de gerenciamento de notas pessoais, desenvolvida como trabalho prático da d
 - Node.js
 - Express.js
 - TypeScript
+
+## Como executar
+
+1. Entre na pasta `backend/`
+2. Copie `.env.example` para `.env`
+3. Instale as dependências com `npm install`
+4. Inicie com `npm run dev`
