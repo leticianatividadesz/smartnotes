@@ -17,8 +17,4 @@ API de gerenciamento de notas pessoais, desenvolvida como trabalho prático da d
 
 ## Descrição
 
-<<<<<<< HEAD
-API de notas pessoais feita em Node.js, Express e TypeScript.
-=======
-SmartNotes é uma API REST para gerenciar notas, organizada em rotas separadas.
->>>>>>> feat/router
+SmartNotes é uma API REST para gerenciar notas pessoais, desenvolvida com Node.js, Express e TypeScript e organizada em rotas separadas.
