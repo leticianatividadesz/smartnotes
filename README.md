@@ -14,3 +14,7 @@ API de gerenciamento de notas pessoais, desenvolvida como trabalho prático da d
 2. Copie `.env.example` para `.env`
 3. Instale as dependências com `npm install`
 4. Inicie com `npm run dev`
+
+## Descrição
+
+SmartNotes é uma API REST para gerenciar notas, organizada em rotas separadas.
