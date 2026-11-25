@@ -25,3 +25,4 @@ SmartNotes é uma API REST para gerenciar notas, organizada em rotas separadas.
 Teste
 A
 B
+C
