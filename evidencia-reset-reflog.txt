@@ -1,0 +1,41 @@
+* a1361e2 (HEAD -> recuperacao) D
+* 4545972 (feat/morgan) C
+* 475cbe0 B
+* 54ef9bf A
+* c7d811a Practice git restore
+* 2a1804c (origin/main, main) feat: adiciona morgan para registro das requisições
+* a6efae1 chore: instala morgan
+| * 861852c (origin/feat/morgan) feat: adiciona morgan para registro das requisições
+| * 6d91728 chore: instala morgan
+|/  
+*   b3b5490 Merge pull request #1 from leticianatividadesz/feat/helmet
+|\  
+| * 51e9f86 (origin/feat/helmet) feat: adiciona helmet para cabeçalhos de segurança HTTP
+|/  
+*   d6d41d5 merge: resolve conflito do README entre docs/update e feat/router
+|\  
+| * 12fbb70 (feat/router) feat: adiciona arquivo de rotas e seção Descrição ao README
+* | c1b52fc (docs/update) docs: adiciona seção Descrição ao README
+|/  
+*   467a98d merge: integra chore/prettier na main
+|\  
+| * 83004c4 (chore/prettier) chore: adiciona e configura prettier
+* | 122f05e docs: adiciona instruções de execução ao README
+|/  
+* 1a45a4d (chore/eslint) chore: adiciona e configura eslint
+* cf086dc fix: ajusta tsconfig para build em commonjs
+* afab850 chore: adiciona .env.example e completa .gitignore
+* b0717fe feat: adiciona validação de variáveis de ambiente com envalid
+* 348d818 feat: adiciona dotenv e variável de ambiente PORT
+* 34a4977 docs: adiciona README.md
+* 22d91ff feat: adiciona hello world com express e typescript
+a1361e2 HEAD@{0}: checkout: moving from feat/morgan to recuperacao
+4545972 HEAD@{1}: reset: moving to HEAD~1
+a1361e2 HEAD@{2}: reset: moving to a1361e2
+4545972 HEAD@{3}: reset: moving to HEAD~1
+a1361e2 HEAD@{4}: reset: moving to a1361e2
+4545972 HEAD@{5}: reset: moving to HEAD~1
+a1361e2 HEAD@{6}: reset: moving to a1361e2
+4545972 HEAD@{7}: reset: moving to 4545972
+a1361e2 HEAD@{8}: commit: D
+4545972 HEAD@{9}: commit: C
